@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Freco
+Comment= FRECO P2P Cryptocurrency
+Comment[fr]= FRECO, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= FRECO, eşten eşe kriptografik sanal para birimi
+Exec=freco-qt %u
+Terminal=false
+Type=Application
+Icon=freco128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=Freco-qt
